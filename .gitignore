@@ -4,4 +4,3 @@ __pycache__
 data/*
 *.bat
 third_party/*
-*.ipynb
