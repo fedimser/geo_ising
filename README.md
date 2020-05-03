@@ -1,0 +1,1 @@
+# Ising model for geographical data
